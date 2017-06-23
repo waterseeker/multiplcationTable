@@ -1,0 +1,8 @@
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplcationTable/bin/Debug/netcoreapp1.1/multiplcationTable.deps.json
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplcationTable/bin/Debug/netcoreapp1.1/multiplcationTable.runtimeconfig.json
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplcationTable/bin/Debug/netcoreapp1.1/multiplcationTable.runtimeconfig.dev.json
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplcationTable/bin/Debug/netcoreapp1.1/multiplcationTable.dll
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplcationTable/bin/Debug/netcoreapp1.1/multiplcationTable.pdb
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplcationTable/obj/Debug/netcoreapp1.1/multiplcationTable.AssemblyInfo.cs
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplcationTable/obj/Debug/netcoreapp1.1/multiplcationTable.dll
+/Users/wayneburris/Desktop/Projects/C#Projects/multiplcationTable/obj/Debug/netcoreapp1.1/multiplcationTable.pdb
